@@ -1,0 +1,26 @@
+{
+  "name": "highlightjs-hakaru",
+  "version": "0.1.0",
+  "description": "highlight.js syntax definition for the Hakaru probabilistic programming language",
+  "main": "src/hakaru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/highlightjs/highlightjs-hakaru.git"
+  },
+  "keywords": [
+    "hakaru",
+    "probabilistic programming",
+    "highlight.js",
+    "highlightjs",
+    "syntax"
+  ],
+  "author": "Rob Zinkov <rob@zinkov.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/highlightjs/highlightjs-hakaru/issues"
+  },
+  "homepage": "https://github.com/highlightjs/highlightjs-hakaru"
+}
