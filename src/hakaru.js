@@ -10,8 +10,8 @@ module.exports = function (hljs) {
     contains: [
       hljs.HASH_COMMENT_MODE, {
         begin: hljs.UNDERSCORE_IDENT_RE,
-        lexemes: hljs.UNDERSCORE_IDENT_RE,
         keywords: {
+          $pattern: hljs.UNDERSCORE_IDENT_RE,
           keyword:
             'import data match if else array def fn plate chain return' +
             'expect observe disintegrate integrate summate from of to' +
